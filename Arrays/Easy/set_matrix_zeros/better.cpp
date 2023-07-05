@@ -38,12 +38,12 @@ public:
                 }
             }
         }
-        for (int i = 0; i < m; i++)
-            cout << arr1[i] << " ";
-        cout << endl;
-        for (int i = 0; i < n; i++)
-            cout << arr2[i] << " ";
-        cout << endl;
+        // for (int i = 0; i < m; i++)
+        //     cout << arr1[i] << " ";
+        // cout << endl;
+        // for (int i = 0; i < n; i++)
+        //     cout << arr2[i] << " ";
+        // cout << endl;
         set_it(matrix, arr1, arr2);
     }
 };
