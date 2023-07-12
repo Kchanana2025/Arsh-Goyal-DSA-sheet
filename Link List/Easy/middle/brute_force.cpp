@@ -1,4 +1,4 @@
-// O(3n/2)
+// O(3n/2)=O(n)
 // O(1)
 class Solution
 {

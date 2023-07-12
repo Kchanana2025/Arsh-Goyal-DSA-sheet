@@ -1,5 +1,6 @@
-// O(n/2)//sirf wo wala time dekhenge jab tak fast null nai ho jata aur fast toh n/2 nodes hi visit kr rha hai
-// O(1)
+// Time:O(n/2)//sirf wo wala time dekhenge jab tak fast null nai ho jata aur fast toh n/2 nodes hi visit kr rha hai socho
+// slow isliye nai dekh rhe kyunki uss n/2 time mein hi slow bhi aage  chla jayega a toh usse kyu dekhna hai
+// Space:O(1)
 class Solution
 {
 public:
